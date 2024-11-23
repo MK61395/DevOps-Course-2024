@@ -1,4 +1,19 @@
-# Muhammad Kashif  
+# <h1 align="center">
+  <span style="animation: fadeInOut 3s infinite;">🎨 **Muhammad Kashif**</span>
+</h1>
+
+<style>
+@keyframes fadeInOut {
+  0%, 100% { opacity: 0; }
+  50% { opacity: 1; }
+}
+span {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 3rem;
+  animation: fadeInOut 3s infinite;
+}
+</style>
+
 
 🎯 **Portfolio Website**: [mk61395.github.io/portfolio-website/](https://mk61395.github.io/portfolio-website/)  
 🌐 **GitHub**: [github.com/MK61395](https://github.com/MK61395)  
