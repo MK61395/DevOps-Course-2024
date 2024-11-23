@@ -1,12 +1,11 @@
 # 🌟✨ **Muhammad Kashif** ✨🌟
 
 
-🎯 **Portfolio Website**: [mk61395.github.io/portfolio-website/](https://mk61395.github.io/portfolio-website/)  
-🌐 **GitHub**: [github.com/MK61395](https://github.com/MK61395)  
-💼 **LinkedIn**: [linkedin.com/in/muhammad-kashif-542761168/](https://linkedin.com/in/muhammad-kashif-542761168/)  
-📧 **Email**: m.kashi613@gmail.com  
-📞 **Mobile**: (0315) 5301695  
-📍 **Location**: Islamabad  
+🎯 **[Portfolio Website](https://mk61395.github.io/portfolio-website/)**  
+🌐 **[GitHub](https://github.com/MK61395)**  
+💼 **[LinkedIn](https://linkedin.com/in/muhammad-kashif-542761168/)**  
+📧 **Email**: [m.kashi613@gmail.com](mailto:m.kashi613@gmail.com)
+ 
 
 ---
 
