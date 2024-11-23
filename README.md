@@ -1,11 +1,13 @@
 # 🌟✨ **Muhammad Kashif** ✨🌟
 
 
-🎯 **[Portfolio Website](https://mk61395.github.io/portfolio-website/)**  
-🌐 **[GitHub](https://github.com/MK61395)**  
-💼 **[LinkedIn](https://linkedin.com/in/muhammad-kashif-542761168/)**  
-📧 **Email**: [m.kashi613@gmail.com](mailto:m.kashi613@gmail.com)
  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-kashif-542761168/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/MK61395) 
+[![Medium](https://img.shields.io/badge/Medium-%2312100E?logo=medium&logoColor=white)](https://medium.com/@m.kashi613) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.kashi613@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://mk61395.github.io/portfolio-website/)
 
 ---
 
