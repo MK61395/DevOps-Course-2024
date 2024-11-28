@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/MK61395) 
 [![Medium](https://img.shields.io/badge/Medium-%2312100E?logo=medium&logoColor=white)](https://medium.com/@m.kashi613) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.kashi613@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://mk61395.github.io/portfolio-website/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://mordred613.netlify.app/)
 
 ---
 
